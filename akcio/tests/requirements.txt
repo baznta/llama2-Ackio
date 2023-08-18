@@ -1,0 +1,8 @@
+towhee
+torch
+langchain
+milvus
+transformers
+dashscope
+zhipuai
+sentence-transformers
